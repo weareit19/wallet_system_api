@@ -36,7 +36,7 @@ Created a LatestStockPrice library in the lib folder for fetching stock prices f
 
 
 ## Setup Instructions     
-git clone:  `https://github.com/shimroz1992/wallet_system_api.git`    
+git clone:  `https://github.com/weareit19/wallet_system_api.git`    
 
 cd `wallet_system_api`     
 
