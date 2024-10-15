@@ -43,4 +43,4 @@ group :development, :test do
 end
 gem "dotenv-rails", groups: [ :development, :test ]
 gem "httparty"
-gem "rubocop", "~> 1.66", ">= 1.66.1"
+gem "rubocop", "~> 1.67"
